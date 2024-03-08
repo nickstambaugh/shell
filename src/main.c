@@ -21,7 +21,7 @@
 
 int main(void)
 {
-    
+    printf("Testing Main Funciton!");
     /*
     for (int i = 0; i < 10; i++)
         test_creds();
